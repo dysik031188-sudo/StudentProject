@@ -6,8 +6,7 @@ package com.group.app.collections;
  */
 public class CollectionTest {
     public static void main(String[] args) {
-        // Здесь мы вызываем ваш конструктор!
-        // После этой строки предупреждение в MyCustomList исчезнет.
+       .
         MyCustomList<Integer> testList = new MyCustomList<>();
 
         System.out.println("--- Запуск теста коллекции ---");
