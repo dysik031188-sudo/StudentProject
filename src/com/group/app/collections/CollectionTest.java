@@ -6,7 +6,7 @@ package com.group.app.collections;
  */
 public class CollectionTest {
     public static void main(String[] args) {
-       .
+
         MyCustomList<Integer> testList = new MyCustomList<>();
 
         System.out.println("--- Запуск теста коллекции ---");
